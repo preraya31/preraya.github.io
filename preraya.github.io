@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="เว็บไซต์แสดงผลงานและทักษะของ Preraya">
+    <title>ความภาคภูมิใจของ PRERAYA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ส่วนหัวของเว็บ -->
+    <header>
+        <h1>สวัสดี! ฉันคือ PRERAYA</h1>
+        <p>นี่คือผลงานและความภาคภูมิใจของฉัน</p>
+    </header>
+
+    <!-- ส่วนเกี่ยวกับตัวเอง -->
+    <section id="about">
+        <h2>เกี่ยวกับฉัน</h2>
+        <p>ฉันเป็นนักเรียนสายศิลป์ที่สนใจงานออกแบบและงานสร้างสรรค์ต่าง ๆ </p>
+    </section>
+
+    <!-- ส่วนแสดงผลงาน -->
+    <section id="projects">
+        <h2>ผลงานของฉัน</h2>
+        <div class="project">
+            <h3>เว็บไซต์ Portfolio</h3>
+            <p>เว็บไซต์นี้เป็นหนึ่งในผลงานที่ฉันสร้างขึ้นเพื่อแสดงความสามารถของฉัน</p>
+        </div>
+        <div class="project">
+            <h3>วิดิโอสั้นลง TikTok / YouTube</h3>
+            <p>ผลงานการตัดต่อวิดีโอคอนเทนต์ท่องเที่ยวที่มียอดผู้เข้า</p>
+        </div>
+    </section>
